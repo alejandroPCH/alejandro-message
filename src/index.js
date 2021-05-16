@@ -5,7 +5,7 @@ const awesomeMessages=[
 
     "Never give up",
     "Things take time... but you have to work hard anyways",
-    "Human beings are momentum animals, even if you don't want to keep going, but you do it anyways, it will be easier next time you feel in that way",
+    "Human beings are momentum animals, even if you don't want to keep going, but you do it anyways, it will be easier next time you feel in that way","You can't stop technology",
     "Terraform Mars!","This is the Alejandro-message package :D"
 ]
 

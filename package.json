@@ -14,7 +14,15 @@
   "author": "alejandro <alejandropachas1@gmail.com>",
   "license": "MIT",
   "bin": {
-    "alejandro-message": "./bin/global.js"
+    "alejandro-message": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroPCH/alejandro-message.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alejandroPCH/alejandro-message/issues"
+  },
+  "homepage": "https://github.com/alejandroPCH/alejandro-message#readme"
 }
